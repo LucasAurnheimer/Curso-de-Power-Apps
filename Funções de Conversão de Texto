@@ -1,0 +1,5 @@
+Upper(Txt_Entrada.Text)
+
+Lower(Txt_Entrada.Text)
+
+Proper(Txt_Entrada.Text)
