@@ -1,0 +1,11 @@
+SUM ( Txt_Valor1.text; Txt_Valor2.Text) Somar números
+
+Subtract(Valor1, Valor2)
+
+Average( Txt_Valor1.text; Txt_Valor2.Text) Tira a media
+
+Max ( Txt_Valor1.text; Txt_Valor2.Text) Mostra o número de maior valor
+
+Min ( Txt_Valor1.text; Txt_Valor2.Text) Mostra o número de menor valor
+
+Divide* Txt_Valor1.text / Txt_Valor2.Text Divide os números
