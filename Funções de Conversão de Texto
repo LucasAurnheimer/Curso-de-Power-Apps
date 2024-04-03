@@ -1,5 +1,5 @@
-Upper(Txt_Entrada.Text)
+Upper(Txt_Entrada.Text) Deixa todas as letras em MAIUSCULO
 
-Lower(Txt_Entrada.Text)
+Lower(Txt_Entrada.Text) DEIXA TODAS AS LETRAS EM minusculo
 
-Proper(Txt_Entrada.Text)
+Proper(Txt_Entrada.Text) Deixa só a primeira letra em Maiusculo
