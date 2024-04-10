@@ -1,0 +1,7 @@
+IsBlank('Txt_Valor'.Text) --> Retorna True pra caso o valor seja vazio e False pra caso não seja
+
+IsNumeric('Txt_Valor.Text) --> Retorna True pra caso o valor seja um numero e False pra caso não seja
+
+Not(IsNumeric('Txt_Valor'.Text)) --> Retorna True pra caso o valor Não seja um numero e False pra caso seja(Função de negação)
+
+IsToday(Today()) --> Retorna True pra caso o valor represente a data atual e False pra caso não represente
