@@ -1,0 +1,7 @@
+Count ('DadosProdutos'.Quantidade) Quantidade de valores numericos de uma tabela
+
+CountA('DadosProdutos'.ID) Quantidade de valores de uma tabela que não estejam em branco
+
+CountIif('DadosProdutos'.Quantidade; Quantidade = 9) Satisfaz uma condição, contagem seletiva
+
+CountRows('DadosProdutos) Quantidade de linhas da tabela
