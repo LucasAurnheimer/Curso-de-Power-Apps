@@ -1,0 +1,17 @@
+Now() --> Retorna a data e a hora atual
+
+Day(Now()) --> Retorna o dia atual
+
+Mounth(Now()) --> Retorna o mes atual
+
+Year(Now()) --> Retorna o ano atual
+
+Hour(Now()) --> Retorna hora atual
+
+Minute(Now()) --> Retorna os minutos atuais
+
+Second(Now()) --> Retorna os secundos atuais
+
+Weekend(Now()) --> Retorna o dia da semana em formato de numero
+
+Today() --> Similar a função Now(), a função Today retorna apenas a data atual
