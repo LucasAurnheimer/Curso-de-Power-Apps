@@ -15,3 +15,9 @@ Second(Now()) --> Retorna os secundos atuais
 Weekend(Now()) --> Retorna o dia da semana em formato de numero
 
 Today() --> Similar a função Now(), a função Today retorna apenas a data atual
+
+DataAdd() Data(Value(txt_Ano.Text);Value(txt_Mes.Text);Value(txt_Dia.Text)) --> Atributo Value é muito importante pois converte uma 
+cadeia de caracteries em numeros. O Resultado exibira a data correspondente a que foi inserida.
+
+DataDiff(Date(Value(txt_Ano.Text);Value(txt_Mes.Text);Value(txt_Dia.Text));Today();Days) --> Calcula a diferença entre a data atual e a
+data inserida. Essa conta pode ser realizada em diferentes parametros, como em dias, meses ou em anos.
