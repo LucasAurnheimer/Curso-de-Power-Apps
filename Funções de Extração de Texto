@@ -1,0 +1,16 @@
+Texto a ser extraido: Paralelepipedo 
+Left(txt_Valor.Text ; 3) --> Faz a extração dos 3 caracteries da esquerda pra direita de um elemento pré definido.
+Resultado - Par
+
+Right(txt_Valor.Text; 3) --> Faz a extração dos 3 caracteries da direita pra esquerda de um elemento pré definido.
+Resultado - edo
+
+Mid(txt_Valor.Text; 4; 3) --> Faz a extração de 3 caracteries apartir do caracter 4 de um elemento pré definido. 
+Resultado - ale
+
+Len(txt_Valor.Text) --> Faz a contagem to total de caracteries.
+Resultado - 14
+
+Find(txt_Valor_Loc.Text; txt_Valor.Text; 1) --> Mostra a posição inicial de algum elemento dentro do texto selecionado
+Ex: Quero localizar a palavra "lele" em Paralelepipedo 
+Resultado - 5 (Pois é no Quinto Caracter que se encontra o inicio da palavra desejada)
