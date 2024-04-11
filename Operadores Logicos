@@ -1,0 +1,11 @@
+if(And(txt_a.Text = txt_Result.Text ; txt_b.Text = txt_Result.Text); True ; False)
+
+if(txt_a.Text = txt_Result.Text && txt_b.Text = txt_Result.Text ; True ; False)
+
+if(Or(txt_a.Text = txt_Result.Text ; txt_b.Text = txt_Result.Text); True ; False)
+
+if(txt_a.Text = txt_Result.Text || txt_b.Text = txt_Result.Text ; True ; False)
+
+if(txt_a.Text <> txt_Result.Text && txt_b.Text <> txt_Result.Text ; True ; False)
+
+Concatenate(txt_a.Text ;" "; txt_b.Text)
