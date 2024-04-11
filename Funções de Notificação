@@ -1,0 +1,7 @@
+Notify(txt_Menssage.Text; NotificationType.Error; 2000) Menssagem de erro
+
+Notify(txt_Menssage.Text; NotificationType.Sucess; 2000) Menssagem de sucesso
+
+Notify(txt_Menssage.Text; NotificationType.Warning; 2000) Menssagem de Perigo
+
+Notify(txt_Menssage.Text; NotificationType.Information; 2000) Menssagem de informação
