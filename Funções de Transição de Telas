@@ -1,0 +1,11 @@
+Back(ScreenTransition.Cover) --> Volta pra tela anterior
+
+Navigate(NomeDaTela; ScreenTransition.Cover) --> Todas navegam para a mesma tela porem com estilos diferentes
+
+Navigate(NomeDaTela; ScreenTransition.Fade)
+
+Navigate(NomeDaTela; ScreenTransition.UnCover)
+
+Navigate(NomeDaTela; ScreenTransition.UnCoverRight)
+
+Navigate(NomeDaTela; ScreenTransition.nNone)
