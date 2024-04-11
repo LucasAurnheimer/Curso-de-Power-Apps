@@ -1,0 +1,8 @@
+User().Image --> Retorna a imagem da pessoa 
+
+User().FullName --> Retorna o nome da pessoa
+
+User().Email --> Retorna o email da pessoa
+
+Exemplo de uso:
+("Olá," & User().FullName & "Seja Bem vindo")
