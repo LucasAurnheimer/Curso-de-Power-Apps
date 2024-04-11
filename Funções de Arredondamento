@@ -1,0 +1,5 @@
+Round(Value(txt_Valor.Text);2) Arredonda o numero para quantidade de casas descimais desejadas
+
+RoundUp(Value(txt_Valor.Text);3) Arredonda o numero para cima com a qtds de casas descimais desejadas
+
+RoundDown(Value(txt_Valor.Text);3) Arredonda o numero para baixo com a qtds de casas descimais desejadas
