@@ -1,0 +1,3 @@
+if(txt_Condição1.Text = txt_Condição2.Text; True ; False) --> é uma função bem flexivel, é possivel pedir quaiser outros 2 resultados a ela, como por exemplo:
+
+if(txt_Condição1.Text = txt_Condição2.Text; "Igual" ; "Diferente") --> As duas funções comparam as 2 entradas.
